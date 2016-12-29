@@ -1,5 +1,5 @@
 # SHELL
-Own implementation of shell using C
+Own implementation of shell and my own ls command using C
 README
 
 Functions:
