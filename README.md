@@ -1,6 +1,6 @@
 # SHELL
 Own implementation of shell and my own ls command using C
-README
+
 
 Functions:
 
